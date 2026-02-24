@@ -1,4 +1,8 @@
 # 📊 E-Commerce Business Analysis using MySQL
+## 🗺 Database ER Diagram
+![ER Diagram](images/er_diagram.png)
+
+---
 
 ## 📌 Project Overview
 This project performs an end-to-end business analysis on an E-commerce dataset using MySQL.  
