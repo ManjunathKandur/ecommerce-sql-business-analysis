@@ -1,4 +1,4 @@
-# 📊 E-Commerce Business Analysis using MySQL
+# 📊 E-Commerce KPI Analysis using SQL
 ## 🗺 Database ER Diagram
 ![ER Diagram](images/er_diagram.png)
 
