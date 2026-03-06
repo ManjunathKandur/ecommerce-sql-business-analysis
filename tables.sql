@@ -51,8 +51,7 @@ CREATE TABLE orders (
     shipped_date DATE,
     delivered_date DATE,
 
-    order_status ENUM('Pending','Processing','Shipped','Delivered','Cancelled')
-    DEFAULT 'Pending',
+    order_status ENUM('Pending','Processing','Shipped','Delivered','Cancelled'),
 
     delivery_charge DECIMAL(8,2) DEFAULT 0,
 
